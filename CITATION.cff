@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "Si usas este software, cítalo con estos metadatos."
+title: "AtmosferIA"
+type: software
+authors:
+  - family-names: "Borrás Rocher"
+    given-names: "Fernando"
+    affiliation: "Universidad Miguel Hernández de Elche"
+    orcid: "https://orcid.org/0000-0002-5519-4573"
+  - family-names: "Méndez Bravo"
+    given-names: "Francisco Javier"
+    affiliation: "Universidad Politécnica Estatal del Carchi"
+    orcid: "https://orcid.org/0009-0005-4934-6533"
+doi: "10.5281/zenodo.23733988"
+version: "1.0.0"
+date-released: "2026-10-28"
+url: "https://fborrasumh.github.io/atmosferia/"
+repository-code: "https://github.com/fborrasumh/atmosferia"
+license: MIT
